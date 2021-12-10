@@ -28,7 +28,8 @@ const styles = StyleSheet.create({
     backgroundColor: 'green',
     height: 100,
     width: 100,
-    alignSelf: 'flex-end'
+    // alignSelf: 'flex-end'
+    marginTop: 50
   },
   boxThreeStyle: {
     backgroundColor: 'purple',
